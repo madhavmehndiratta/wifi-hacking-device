@@ -6,4 +6,4 @@ These are the scripts for a portable WiFi hacking device which can be made using
 
 ### Methodology:
 
-![methodology](images/diag2.png)
+![methodology](images/diag.png)
