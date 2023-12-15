@@ -4,6 +4,4 @@ These are the scripts for a portable WiFi hacking device which can be made using
 
 **Note:** A WiFi adaptor which supports Monitor Mode is also required.
 
-### Methodology:
-
 ![methodology](images/diag.png)
